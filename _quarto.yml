@@ -17,7 +17,7 @@ website:
         file: index.qmd
       - text: Dataset Details
         menu:
-        - text: "Gabriel Stomberg-Fannon"
+        - text: "RANDS 10 Facts Label"
           href: gastomberg-fannon.qmd
         - text: "HINTS 7 Facts Label"
           href: aliyah.qmd

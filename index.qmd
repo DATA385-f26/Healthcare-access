@@ -4,8 +4,8 @@ title: "Investigating a Dataset's Ingredients"
 
 ## Topic Area
 
-Introduce your topic area. What did you choose, why did you choose it? 
+The topic we chose was on healthcare access. Specifically, we wanted to investigate whether certain demographics of people faced more barriers or an overall poorer experience when seeking or receiving healthcare. We chose it because we have a personal connection to this area, whether it's ourselves or someone we know, when it comes to our less-than-ideal experiences in the healthcare system. For example (and a large reason we chose to look into this), we often noticed or experiemnced that having chronic illnesses on record has led to poorer experiences in healthcare, such as difficulty getting coverage for tests or being treated different by providers based on that information.
 
 ## Research Question
 
-State your research question that you hope to answer with data. 
+Are there higher barriers to satisfactory healthcare access for certain demographics of people, specifically those with a higher need for care or who belong to disparaged communities?
