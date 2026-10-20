@@ -19,8 +19,8 @@ website:
         menu:
         - text: "Gabriel Stomberg-Fannon"
           href: gastomberg-fannon.qmd
-        - text: "Person 2"
-          href: person2.qmd
+        - text: "HINTS 7 Facts Label"
+          href: aliyah.qmd
       - text: "Comparative Analysis"
         href: comparison.qmd
 
