@@ -22,7 +22,7 @@ website:
         - text: "HINTS 7 Facts Label"
           href: aliyah.qmd
       - text: "Comparative Analysis"
-        href: comparison.qmd
+        href: analysis.qmd
 
 format:
   html:
